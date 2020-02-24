@@ -1,11 +1,16 @@
 _repo: Is-a-Ship-Canal-Practicable-Notes-Historical-and-Statistical-upon-the-Projected-Routes-for-an__61473
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61473-h/images/cover.jpg
 creator:
   author:
     agent_name: Abert, Sylvanus Thayer
     gutenberg_agent_id: '51445'
     url: http://www.gutenberg.org/2009/agents/51445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61473#Is-a-Ship-Canal-Practicable-Notes-Historical-and-Statistical-upon-the-Projected-Routes-for-an_
 gutenberg_issued: '2020-02-21'
 gutenberg_type: Text
 identifiers:
